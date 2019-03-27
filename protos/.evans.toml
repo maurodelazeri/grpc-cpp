@@ -1,0 +1,4 @@
+[default]
+protoFile = ["helloworld.proto"]
+package = "helloworld"
+service = "Greeter"
